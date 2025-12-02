@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sdsharmag.github.io/UI_Design_React_Project",
+  "homepage": "https://github.com/SDSharmaG/UI_Design_React_Project",
   "name": "npm",
   "private": true,
   "version": "0.0.0",
@@ -9,6 +9,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
+    "deploy":"gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
