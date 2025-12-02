@@ -5,6 +5,7 @@ import Filterbar from './components/Filterbar'
 import Aside from './components/aside'
 import Productlists from './components/Productlists'
 import Footer from './components/footer'
+import './App.css'
 
 const App = () => {
   return (
